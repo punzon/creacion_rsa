@@ -52,7 +52,7 @@
 
 3. Nos habrá generado ya la clave publica(.pub) y privada. Cogemos esa clave publica con:
 
-       cat id_rsa.pub
+       cat id_rsa.pub | clip
 
  
 
