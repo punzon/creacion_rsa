@@ -58,7 +58,7 @@
 
 4. En azure, arriba a la derecha pinchamos en user settings y ssh public keys
 
-    (imagen)
+    ![Image text](https://github.com/punzon/creacion_rsa/blob/main/image001.png)
 
 5. Pinchamos en add y añadimos la clave publica. 
    Deberia empezar por ssh-rsa …
